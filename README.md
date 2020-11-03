@@ -18,8 +18,8 @@ I am planning to update this list every day with the list I have in my rss.
 
 # Technology Product Companies Blogs 
 
-[Aiven](https://aiven.io/blog?posts=30) - data engineering trends; various data solutions information, comparison.
-[Hevo](https://hevodata.com/blog/) - data engineering trends; various data solutions information, comparison. 
+[Aiven](https://aiven.io/blog?posts=30) - data engineering trends; various data solutions information, comparison. \
+[Hevo](https://hevodata.com/blog/) - data engineering trends; various data solutions information, comparison. \
 [kesque](https://kesque.com/blog/) - pulsar, streaming, comparison.
 
 # Technology Services Companies Blogs 
@@ -29,8 +29,8 @@ I am planning to update this list every day with the list I have in my rss.
 
 # Newsletter 
 
-[Azure](https://azureweekly.info/) - all azure news you need. 
-[newstack](https://thenewstack.io/) - really good newsletter, lots of technology news.
+[Azure](https://azureweekly.info/) - all azure news you need. \
+[newstack](https://thenewstack.io/) - really good newsletter, lots of technology news. \
 [highscalability](http://highscalability.com/) - distributed systems newsletter, not reading this one lately.
 
 # Trainings 
