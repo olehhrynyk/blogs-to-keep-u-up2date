@@ -43,7 +43,7 @@ Just tech.
 [kesque](https://kesque.com/blog/) - pulsar, streaming, comparison. \
 [sisense](https://www.sisense.com/blog/?pg=3) - data, ml & analytics. \
 [semantics3](https://www.semantics3.com/blog/) - AI, ML, OCR, data engineering \
-[sketch](https://www.sketch.com/blog/) - UX and sketch.
+[sketch](https://www.sketch.com/blog/) - UX and sketch. \
 [veracode](https://www.veracode.com/blog) - security.
 
 # Technology Services Companies Blogs 
