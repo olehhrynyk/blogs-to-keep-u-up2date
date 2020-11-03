@@ -1,8 +1,9 @@
 # blogs-to-keep-u-up2date
 I am often asked which resources and blogs i am reading or following, so i prepared curated list of blogs to keep you up to date on various new technologies, trends, existing tech updates.
 
-No dead links here.
-No blogs with too much of marketing.
+No dead links here. \
+No blogs with lot of marketing. \
+No product centric blogs. 
 
 Just tech.
 
