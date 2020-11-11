@@ -26,6 +26,7 @@ Just tech.
 [olx](https://tech.olx.com/) - data and software engineering at scale, also ML. \
 [quora](https://www.quora.com/q/quoraengineering) - ml,data and software engineering at scale. \
 [shopify](https://shopify.engineering/) - engineering, data and product engineering. \
+[sportify](https://engineering.atspotify.com/) - engineering, ml
 [skyscanner](https://medium.com/@SkyscannerEng) - software and data engineering. \
 [spg](https://sbg.technology/) - distributed systems, data and software engineering. \
 [twitter](https://blog.twitter.com/engineering/en_us.html) - data and api. \
@@ -86,5 +87,6 @@ Just tech.
 I don't like books, because depending from your context on the topic at least one-third would be useless for you. Here I will post books that I believe are useful for Data / Solution Architect
 
 [Be different](https://www.amazon.com/Be-Different-Business-Career-Success/dp/1949991741) - probably the best business book I've read in 2020.
+[Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon.
 
 
