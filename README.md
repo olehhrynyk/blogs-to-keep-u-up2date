@@ -87,6 +87,7 @@ Just tech.
 I don't like books, because depending from your context on the topic at least one-third would be useless for you. Here I will post books that I believe are useful for Data / Solution Architect
 
 [Be different](https://www.amazon.com/Be-Different-Business-Career-Success/dp/1949991741) - probably the best business book I've read in 2020. \
-[Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon.
+[Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon. \
+[System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - book that gives you practical perspective on system design.
 
 
