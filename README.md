@@ -90,4 +90,5 @@ I don't like books, because depending from your context on the topic at least on
 [Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon. \
 [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - book that gives you practical perspective on system design.
 
-
+# Data Architecture Books
+[Data Management at scale](https://www.oreilly.com/library/view/data-management-at/9781492054771/) - great book that covers most important topics for data architecture and management.
