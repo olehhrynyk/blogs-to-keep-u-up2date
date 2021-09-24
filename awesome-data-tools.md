@@ -14,3 +14,9 @@
 
 # Data transformation
 [dbt](https://github.com/dbt-labs/dbt) - data transformation tool \
+
+# Data management
+[datahub](https://github.com/linkedin/datahub) - Platform for metadata management \
+
+# Data protection
+[presidio](https://github.com/microsoft/presidio/) - data protection and anonimization sdk
