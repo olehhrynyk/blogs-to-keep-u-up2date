@@ -20,17 +20,25 @@ Just tech.
 [Databricks](https://databricks.com/blog) - spark, databricks, delta lake, mlflow. Data engineering tips. \
 [deezer](https://deezer.io/) - ml, software and data engineering. \
 [Expedia](https://medium.com/expedia-group-tech/) - API, data engineering, CI / CD, software engineering. \
+[ebay](https://tech.ebayinc.com/) - tech \
 [Google AI](https://ai.googleblog.com/) - AI, deep learning, ml, trends. \
+[Google](https://developers.googleblog.com/) - tech \
 [grab](https://engineering.grab.com/) - ml, ux, data and software engineering \
+[groupon](https://medium.com/groupon-eng) - data engineering \
 [LinkedIn](https://engineering.linkedin.com/) - ML, ranking, search, API. \
+[mixpanel](https://mixpanel.com/blog/) - ml data and ai \
 [olx](https://tech.olx.com/) - data and software engineering at scale, also ML. \
+[paypal](https://medium.com/paypal-tech) - data, transactions \
 [quora](https://www.quora.com/q/quoraengineering) - ml,data and software engineering at scale. \
 [shopify](https://shopify.engineering/) - engineering, data and product engineering. \
-[sportify](https://engineering.atspotify.com/) - engineering, ml
+[slack](https://slack.engineering/) - data, ui, web \
+[spotify](https://engineering.atspotify.com/) - engineering, ml \
+[soundcloud](https://developers.soundcloud.com/blog/) - engineering, web, api, ml \
 [skyscanner](https://medium.com/@SkyscannerEng) - software and data engineering. \
 [spg](https://sbg.technology/) - distributed systems, data and software engineering. \
 [twitter](https://blog.twitter.com/engineering/en_us.html) - data and api. \
 [trivago](https://tech.trivago.com/) - search, ml, data engineering, distributed, gcp. \
+[thumbtack](https://medium.com/thumbtack-engineering) - ml, ai, search, data \
 [Wepay](https://wecode.wepay.com/) - software engineering, tips, etc. \
 [WayFair](https://tech.wayfair.com/) - ar, ai, ml, data engineering \
 [yahoo](https://yahooeng.tumblr.com/) - data engineering, ml, streaming \
