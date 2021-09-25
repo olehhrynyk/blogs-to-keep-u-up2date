@@ -33,6 +33,8 @@ Just tech.
 [trivago](https://tech.trivago.com/) - search, ml, data engineering, distributed, gcp. \
 [Wepay](https://wecode.wepay.com/) - software engineering, tips, etc. \
 [WayFair](https://tech.wayfair.com/) - ar, ai, ml, data engineering \
+[yahoo](https://yahooeng.tumblr.com/) - data engineering, ml, streaming \
+[yelp](https://engineeringblog.yelp.com/) - data engineering, search, tech \
 [Zillow](https://www.zillow.com/tech/) - ML, recommenders, streaming, data engineering. \
 [Zendesk](https://medium.com/zendesk-engineering) - data and software engineering.
 
