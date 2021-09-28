@@ -25,6 +25,9 @@
 # Postgres
 [fast-api-postgres](https://github.com/tiangolo/full-stack-fastapi-postgresql) - API for postgresql (backend, frontend)
 
+# Spark
+[tempo](https://github.com/databrickslabs/tempo) - time series utils for spark
+
 # Workflow orchestration
 
 [aws step function](https://aws.amazon.com/ru/step-functions/) - aws native serverless workflow orchestration tool \
