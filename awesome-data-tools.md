@@ -15,6 +15,12 @@
 # Data Querying
 [bullet](https://github.com/bullet-db) - streaming query engine with DSL
 
+# Delta
+[delta sharing](https://github.com/delta-io/delta-sharing) - delta lake sharing implementation
+
+# Postgres
+[fast-api-postgres](https://github.com/tiangolo/full-stack-fastapi-postgresql) - API for postgresql (backend, frontend)
+
 # Workflow orchestration
 
 [aws step function](https://aws.amazon.com/ru/step-functions/) - aws native serverless workflow orchestration tool \
