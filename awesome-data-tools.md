@@ -1,7 +1,3 @@
-# AWS
-## S3
-[s3 fire and forget](https://github.com/awslabs/amazon-s3-find-and-forget) - selective erasure for s3
-
 # Datasets
 
 [quilt](https://open.quiltdata.com/) - datasets and projects \
