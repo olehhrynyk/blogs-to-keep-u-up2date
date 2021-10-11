@@ -3,6 +3,9 @@
 [quilt](https://open.quiltdata.com/) - datasets and projects \
 [aws open dataset registry](https://github.com/awslabs/open-data-registry) - registry of open data sets
 
+# Data indexing
+[hyperspace](https://github.com/microsoft/hyperspace) - spark indexing engine
+
 # Data transformation
 [dbt](https://github.com/dbt-labs/dbt) - data transformation tool \
 
@@ -17,6 +20,9 @@
 
 # Delta
 [delta sharing](https://github.com/delta-io/delta-sharing) - delta lake sharing implementation
+
+# File
+[smart_open](https://github.com/RaRe-Technologies/smart_open) - large file streaming to cloud storage in python
 
 # Postgres
 [fast-api-postgres](https://github.com/tiangolo/full-stack-fastapi-postgresql) - API for postgresql (backend, frontend)
