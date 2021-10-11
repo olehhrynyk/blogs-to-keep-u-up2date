@@ -23,6 +23,7 @@
 
 # File
 [smart_open](https://github.com/RaRe-Technologies/smart_open) - large file streaming to cloud storage in python
+[syncthing](https://github.com/syncthing/syncthing) - continious file syncing tool
 
 # Postgres
 [fast-api-postgres](https://github.com/tiangolo/full-stack-fastapi-postgresql) - API for postgresql (backend, frontend)
