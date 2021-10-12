@@ -106,3 +106,6 @@ I don't like books, because depending from your context on the topic at least on
 
 # Data Architecture Books
 [Data Management at scale](https://www.oreilly.com/library/view/data-management-at/9781492054771/) - great book that covers most important topics for data architecture and management.
+
+# Domain driven design
+[domain driven hexagon](https://github.com/Sairyss/domain-driven-hexagon) - domain driven solution design resources
