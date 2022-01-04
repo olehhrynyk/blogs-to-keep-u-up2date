@@ -2,6 +2,7 @@
 
 ## DynamoDB
 [dynamo dump](https://github.com/bchew/dynamodump) - backup and restore dynamo db
+[prowler](https://github.com/toniblyx/prowler) - security check tool in aws
 
 ## S3
 [s3 fire and forget](https://github.com/awslabs/amazon-s3-find-and-forget) - selective erasure for s3
