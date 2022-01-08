@@ -1,3 +1,20 @@
+# Ingestion
+[fivetran](https://www.fivetran.com/) \
+[snaplogic](https://www.snaplogic.com/) \
+[stitch](https://www.stitchdata.com/)  \
+[airbyte](https://airbyte.io/) 
+
+# Storage / Processing
+[snowflake](https://www.snowflake.com/) \
+[firebolt](https://www.firebolt.io/) \
+[dremio](https://www.dremio.com/) \
+[databricks](https://databricks.com/) \
+[starburst](https://www.starburst.io/) 
+
+# Data Modelling
+[dbt](https://www.getdbt.com/) \
+[dataform](https://dataform.co/)
+
 # Datasets
 
 [quilt](https://open.quiltdata.com/) - datasets and projects \
