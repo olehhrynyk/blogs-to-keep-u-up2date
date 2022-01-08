@@ -1,7 +1,10 @@
 # AWS
 
-## DynamoDB
+[aws well architected framework](https://github.com/awslabs/aws-well-architected-labs) - tools for well architected framework \
 [aws analytics stack](https://github.com/aws-samples/aws-analytics-reference-architecture) - analytical stack for analytics \
+
+## DynamoDB
+
 [dynamo dump](https://github.com/bchew/dynamodump) - backup and restore dynamo db \
 [prowler](https://github.com/toniblyx/prowler) - security check tool in aws
 
