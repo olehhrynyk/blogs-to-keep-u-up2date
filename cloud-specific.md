@@ -1,6 +1,7 @@
 # AWS
 
 ## DynamoDB
+[aws analytics stack](https://github.com/aws-samples/aws-analytics-reference-architecture) - analytical stack for analytics \
 [dynamo dump](https://github.com/bchew/dynamodump) - backup and restore dynamo db \
 [prowler](https://github.com/toniblyx/prowler) - security check tool in aws
 
