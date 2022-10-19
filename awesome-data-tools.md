@@ -12,7 +12,8 @@
 [firebolt](https://www.firebolt.io/) \
 [dremio](https://www.dremio.com/) \
 [databricks](https://databricks.com/) \
-[starburst](https://www.starburst.io/) 
+[starburst](https://www.starburst.io/) \
+[mantis](https://netflix.github.io/mantis/) \
 
 # Data Modelling
 [dbt](https://www.getdbt.com/) \
