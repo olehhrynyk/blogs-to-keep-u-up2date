@@ -1,6 +1,3 @@
-# UI
-[nocodb](https://github.com/nocodb/nocodb) - spreadsheed on top of db.  \
-
 # Ingestion
 [fivetran](https://www.fivetran.com/) \
 [snaplogic](https://www.snaplogic.com/) \
@@ -28,6 +25,7 @@
 [aws open dataset registry](https://github.com/awslabs/open-data-registry) - registry of open data sets
 
 # Datatable editable
+[airtable](https://www.airtable.com/) \
 [nocodb](https://github.com/nocodb/nocodb) \
 [apitable](https://github.com/apitable/apitable) \
 
