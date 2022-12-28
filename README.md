@@ -92,6 +92,10 @@ Just tech.
 
 [Fast.ai](https://www.fast.ai/) - best ml / dl free course IMO, pytorch extension, various interesting topics related to data (privacy, data ethics and many more. 
 
+# Tutorials
+[build your own x](https://github.com/codecrafters-io/build-your-own-x)
+
+
 # Books / resources
 
 I don't like books, because depending from your context on the topic at least one-third would be useless for you. Here I will post books that I believe are useful for Data / Solution Architect
