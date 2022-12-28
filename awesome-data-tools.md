@@ -19,6 +19,9 @@
 [dbt](https://www.getdbt.com/) \
 [dataform](https://dataform.co/)
 
+# Data Quality
+[soda](https://github.com/sodadata/soda-core) 
+
 # Datasets
 
 [quilt](https://open.quiltdata.com/) - datasets and projects \
