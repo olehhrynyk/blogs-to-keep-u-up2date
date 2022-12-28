@@ -27,6 +27,10 @@
 [quilt](https://open.quiltdata.com/) - datasets and projects \
 [aws open dataset registry](https://github.com/awslabs/open-data-registry) - registry of open data sets
 
+# Datatable editable
+[nocodb](https://github.com/nocodb/nocodb) \
+[apitable](https://github.com/apitable/apitable) \
+
 # Data indexing
 [hyperspace](https://github.com/microsoft/hyperspace) - spark indexing engine
 
