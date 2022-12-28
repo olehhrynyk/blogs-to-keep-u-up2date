@@ -7,6 +7,7 @@
 [Confluent data mesh](https://github.com/confluentinc/data-mesh-demo/) \
 [proxima](https://github.com/O2-Czech-Republic/proxima-platform) \
 [data platform tools](https://github.com/ryandawsonuk/data-platforms-tools) \
+[deephivemind](https://github.com/DeepHiveMind/Distributed_DataMesh_2.0_Cloud_Implementation)
 
 
 # ML collaboration space
