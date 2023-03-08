@@ -2,6 +2,7 @@
 
 [aws well architected framework](https://github.com/awslabs/aws-well-architected-labs) - tools for well architected framework \
 [aws analytics stack](https://github.com/aws-samples/aws-analytics-reference-architecture) - analytical stack for analytics \
+[localstack](https://github.com/localstack/localstack) - run and test locally
 
 ## DynamoDB
 
