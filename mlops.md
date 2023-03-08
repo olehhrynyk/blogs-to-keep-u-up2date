@@ -4,6 +4,7 @@
 
 [fedml](https://doc.fedml.ai/starter/getting_started.html) - fedml
 [collosalai](https://github.com/hpcaitech/ColossalAI) - model optimization
+[flexgen](https://github.com/FMInference/FlexGen) - gpu optimization frameework
 
 # Notebooks templates
 
