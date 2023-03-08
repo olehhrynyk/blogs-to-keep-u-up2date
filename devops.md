@@ -16,6 +16,7 @@
 
 [scoutsuite](https://github.com/nccgroup/ScoutSuite) - vulnerability scan in cloud
 
+[netdata](https://github.com/netdata/netdata) - monitoring framwork
 
 # Azure
 
