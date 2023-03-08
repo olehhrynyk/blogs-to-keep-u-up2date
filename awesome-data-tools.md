@@ -16,6 +16,10 @@
 [dbt](https://www.getdbt.com/) \
 [dataform](https://dataform.co/)
 
+# Data visualization
+[superset](https://github.com/apache/superset)
+[metabase](https://github.com/metabase/metabase)
+
 # Data Quality
 [soda](https://github.com/sodadata/soda-core) \
 [pandera](https://github.com/unionai-oss/pandera) \
@@ -72,4 +76,5 @@
 [nifi](https://github.com/apache/nifi) - data ETL and orchestration tool 
 
 # Data Apps
-[streamlit](https://github.com/streamlit/streamlit)
+[streamlit](https://github.com/streamlit/streamlit
+[dash](https://github.com/plotly/dash)
