@@ -8,5 +8,6 @@
 
 [NaaS](https://github.com/jupyter-naas/awesome-notebooks) - collection of notebook templates
 
-# Free ML courses
-[YT ML Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+# Learn
+[YT ML Courses](https://github.com/dair-ai/ML-YouTube-Courses) \
+[AI expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
