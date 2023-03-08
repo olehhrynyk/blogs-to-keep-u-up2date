@@ -8,4 +8,6 @@
 
 [prowler](https://github.com/prowler-cloud/prowler) - cloud asmt framwrok \
 
-[tfsec](https://github.com/aquasecurity/tfsec) - teraform security scanner
+[tfsec](https://github.com/aquasecurity/tfsec) - teraform security scanner \
+
+[cloudmapper](https://github.com/duo-labs/cloudmapper) - analyze aws env
