@@ -17,7 +17,9 @@
 [dataform](https://dataform.co/)
 
 # Data Quality
-[soda](https://github.com/sodadata/soda-core) 
+[soda](https://github.com/sodadata/soda-core) \
+[pandera](https://github.com/unionai-oss/pandera) \
+[great-expectations](https://github.com/great-expectations/great_expectations)
 
 # Datasets
 
