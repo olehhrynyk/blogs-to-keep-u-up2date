@@ -5,7 +5,13 @@
 [fedml](https://doc.fedml.ai/starter/getting_started.html) - fedml \
 [collosalai](https://github.com/hpcaitech/ColossalAI) - model optimization \
 [flexgen](https://github.com/FMInference/FlexGen) - gpu optimization frameework \
-[ray](https://github.com/ray-project/ray) - ml scaling frameework
+[ray](https://github.com/ray-project/ray) - ml scaling frameework \
+[netron](https://github.com/lutzroeder/netron) - ml model visualizer \
+[jina](https://github.com/jina-ai/jina) - ml model ai services
+
+# labeling
+[labelimg](https://github.com/heartexlabs/labelImg) - img labeling
+[label studio](https://github.com/heartexlabs/label-studio)
 
 # Notebooks templates
 
