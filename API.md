@@ -4,6 +4,7 @@
 ## API
 [fast api](https://github.com/tiangolo/fastapi) - python api
 [slate](https://github.com/slatedocs/slate) - api documentation
+[hasura](https://github.com/hasura/graphql-engine) - api framework + authorization
 
 ## K8S
 [hubble](https://github.com/cilium/hubble)
