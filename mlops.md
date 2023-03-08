@@ -4,7 +4,8 @@
 [controlnet](https://github.com/lllyasviel/ControlNet) \
 [fedml](https://doc.fedml.ai/starter/getting_started.html) - fedml \
 [collosalai](https://github.com/hpcaitech/ColossalAI) - model optimization \
-[flexgen](https://github.com/FMInference/FlexGen) - gpu optimization frameework
+[flexgen](https://github.com/FMInference/FlexGen) - gpu optimization frameework \
+[ray](https://github.com/ray-project/ray) - ml scaling frameework
 
 # Notebooks templates
 
