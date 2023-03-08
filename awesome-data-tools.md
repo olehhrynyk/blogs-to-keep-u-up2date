@@ -70,3 +70,6 @@
 [prefect](https://github.com/prefecthq/prefect) - data  orchestrator \
 [dagster](https://github.com/dagster-io/dagster) - data orchestrator for ETL, ml \
 [nifi](https://github.com/apache/nifi) - data ETL and orchestration tool 
+
+# Data Apps
+[streamlit](https://github.com/streamlit/streamlit)
