@@ -15,3 +15,8 @@
 [chekov](https://github.com/bridgecrewio/checkov) - container vulnerability scanner \
 
 [scoutsuite](https://github.com/nccgroup/ScoutSuite) - vulnerability scan in cloud
+
+
+# Azure
+
+[azure templates](https://github.com/Azure/azure-quickstart-templates) - azure qs templaytes
