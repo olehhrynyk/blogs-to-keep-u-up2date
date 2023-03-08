@@ -10,4 +10,8 @@
 
 [tfsec](https://github.com/aquasecurity/tfsec) - teraform security scanner \
 
-[cloudmapper](https://github.com/duo-labs/cloudmapper) - analyze aws env
+[cloudmapper](https://github.com/duo-labs/cloudmapper) - analyze aws env \
+
+[chekov](https://github.com/bridgecrewio/checkov) - container vulnerability scanner \
+
+[scoutsuite](https://github.com/nccgroup/ScoutSuite) - vulnerability scan in cloud
