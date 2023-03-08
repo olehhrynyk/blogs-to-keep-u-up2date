@@ -78,3 +78,7 @@
 # Data Apps
 [streamlit](https://github.com/streamlit/streamlit
 [dash](https://github.com/plotly/dash)
+
+# Graph and geospatial visualization
+[g6](https://github.com/antvis/G6)
+[kepler](https://github.com/keplergl/kepler.gl)
