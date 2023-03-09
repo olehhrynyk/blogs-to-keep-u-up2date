@@ -44,6 +44,12 @@
 # Data management
 [datahub](https://github.com/linkedin/datahub) - Platform for metadata management \
 
+# ML collaboration space
+[squirrel](https://github.com/merantix-momentum/squirrel-core) 
+
+# Metadata magement
+[openmetadata](https://github.com/open-metadata/OpenMetadata#features)
+
 # Data protection
 [presidio](https://github.com/microsoft/presidio/) - data protection and anonimization sdk
 
