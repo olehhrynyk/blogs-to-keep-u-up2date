@@ -10,11 +10,9 @@
 [deephivemind](https://github.com/DeepHiveMind/Distributed_DataMesh_2.0_Cloud_Implementation)
 
 
-# ML collaboration space
-[squirrel](https://github.com/merantix-momentum/squirrel-core) \
-
 # Data Governance
 [open data discovery](https://github.com/opendatadiscovery/opendatadiscovery-specification) \
 [open data discovery](https://github.com/opendatadiscovery/odd-platform) \
 [open data discovery](https://github.com/merantix-momentum/squirrel-datasets-core)
+
 
