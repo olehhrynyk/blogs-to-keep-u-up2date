@@ -8,15 +8,16 @@
 
 [prowler](https://github.com/prowler-cloud/prowler) - cloud asmt framwrok \
 
-[tfsec](https://github.com/aquasecurity/tfsec) - teraform security scanner \
-
 [cloudmapper](https://github.com/duo-labs/cloudmapper) - analyze aws env \
 
-[chekov](https://github.com/bridgecrewio/checkov) - container vulnerability scanner \
-
-[scoutsuite](https://github.com/nccgroup/ScoutSuite) - vulnerability scan in cloud
 
 [netdata](https://github.com/netdata/netdata) - monitoring framwork
+
+# Security scanner
+[trivy](https://github.com/aquasecurity/trivy)  \
+[tfsec](https://github.com/aquasecurity/tfsec) - teraform security scanner \
+[chekov](https://github.com/bridgecrewio/checkov) - container vulnerability scanner \
+[scoutsuite](https://github.com/nccgroup/ScoutSuite) - vulnerability scan in cloud
 
 # Azure
 
