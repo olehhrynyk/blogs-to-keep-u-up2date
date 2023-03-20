@@ -4,10 +4,10 @@
 [bicep](https://github.com/Azure/bicep) \
 
 # K8, containers management
-[cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+[cluster-api](https://github.com/kubernetes-sigs/cluster-api) \
 [crane](https://github.com/InfuseAI/crane) - container management \ 
 [infiscal](https://github.com/Infisical/infisical) - secret management \
-
+[linkerd](https://github.com/linkerd/linkerd2) - service mesh
 
 # Security scanner, cloud analysis
 
