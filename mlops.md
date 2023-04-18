@@ -24,3 +24,6 @@
 # Learn
 [YT ML Courses](https://github.com/dair-ai/ML-YouTube-Courses) \
 [AI expert roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+
+# satelite images
+[techniques](https://github.com/satellite-image-deep-learning/techniques)
