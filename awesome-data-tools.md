@@ -91,3 +91,6 @@
 # Graph and geospatial visualization
 [g6](https://github.com/antvis/G6)
 [kepler](https://github.com/keplergl/kepler.gl)
+
+#data labeling
+[awesome data labeling](https://github.com/heartexlabs/awesome-data-labeling)
