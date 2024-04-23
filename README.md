@@ -102,8 +102,10 @@ I don't like books, because depending from your context on the topic at least on
 
 [Be different](https://www.amazon.com/Be-Different-Business-Career-Success/dp/1949991741) - probably the best business book I've read in 2020. \
 [Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon. \
-[System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - book that gives you practical perspective on system design. \
-[system design primer](https://github.com/donnemartin/system-design-primer) - collection about system design solutions
+[System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - book that gives you practical perspective on system design. Definitely look for book 2, and ml interview book  \
+[system design primer](https://github.com/donnemartin/system-design-primer) - collection about system design solutions \
+[Architecture modernization](https://www.manning.com/books/architecture-modernization) - one of the best recent books for architeects
+[Non-invasive data governance](https://www.amazon.com/Non-Invasive-Data-Governance-Robert-Seiner/dp/1935504851) - best book for person who is working in data gov / management space 
 
 # Enterprise Architecture Books
 [Controlling Chaos](https://www.amazon.com/Controlling-Chaos-Functional-Enterprise-Architecture-ebook/dp/B07CBMGZJ3) - this books covers EA topics very extensively.
