@@ -91,7 +91,11 @@ Just tech.
 # Trainings 
 
 [Fast.ai](https://www.fast.ai/) - best ml / dl free course IMO, pytorch extension, various interesting topics related to data (privacy, data ethics and many more. 
-
+[promt engineering course](https://www.promptingguide.ai/techniques) - great course to get familiar with modern promt engineering techniques \
+[LLM course 1](https://github.com/mlabonne/llm-course) - best llm course out there \
+[LLM course 2](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) - more practical approach to LLM \
+[ml for beginners by ms](https://github.com/microsoft/ML-For-Beginners) - ml for beginners \
+[mlcourse.ai](https://mlcourse.ai/book/index.html) - ml for beginners \
 # Tutorials
 [build your own x](https://github.com/codecrafters-io/build-your-own-x)
 
@@ -104,7 +108,7 @@ I don't like books, because depending from your context on the topic at least on
 [Think like Amazon: 50 and 1/2 ideas](https://www.amazon.com/Think-Like-Amazon-Become-Digital-ebook/dp/B07K3ZZC7D) - ideas how to build successful company. A lot of lessons learned from Amazon. \
 [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - book that gives you practical perspective on system design. Definitely look for book 2, and ml interview book  \
 [system design primer](https://github.com/donnemartin/system-design-primer) - collection about system design solutions \
-[Architecture modernization](https://www.manning.com/books/architecture-modernization) - one of the best recent books for architeects
+[Architecture modernization](https://www.manning.com/books/architecture-modernization) - one of the best recent books for architeects \
 [Non-invasive data governance](https://www.amazon.com/Non-Invasive-Data-Governance-Robert-Seiner/dp/1935504851) - best book for person who is working in data gov / management space 
 
 # Enterprise Architecture Books
@@ -115,3 +119,43 @@ I don't like books, because depending from your context on the topic at least on
 
 # Domain driven design
 [domain driven hexagon](https://github.com/Sairyss/domain-driven-hexagon) - domain driven solution design resources
+
+# AWESOME MIRO BOARDS
+[ai canvas](https://miro.com/miroverse/ai-canvas/) \
+[Discovery dashboard](https://miro.com/miroverse/discovery-dashboard/) \
+[Data viz discovery](https://miro.com/miroverse/data-viz-dashboard-discovery/) \
+[Data viz discovry](https://miro.com/miroverse/data-visualization-product-discovery/) \
+[Ai strategy](https://miro.com/miroverse/ai-strategy-roadmap-workshop-template/) \
+[Data strategy](https://miro.com/miroverse/data-strategy-workshop/) \
+[Strategy board](https://miro.com/miroverse/strategy-canvas/) \
+[Impact mapping](https://miro.com/miroverse/impact-mapping/) \
+[Data product toolkit](https://miro.com/miroverse/data-product-toolkit/) \
+[Data product canvas](https://miro.com/miroverse/data-product-canvas/) \
+[Data mesh canva](https://miro.com/miroverse/data-mesh-canvas-template/) \
+[Data thinking](https://miro.com/miroverse/data-thinking-canvas-template/) \ 
+[Data revolution](https://miro.com/miroverse/data-revolution-workshop-ebz0hpkbomfkbsbg/) \
+[Data privacy](https://miro.com/miroverse/ico-data-privacy-moments/) \
+[Data org chart](https://miro.com/miroverse/data-org-chart/) \
+[Data landscape](https://miro.com/miroverse/gen-ai-data-landscape-template/) \
+[4ddx](https://miro.com/miroverse/4ddx-v30/) \
+[Strategic DDD](https://miro.com/miroverse/strategic-domain-driven-design-template/) \
+[Event storming](https://miro.com/miroverse/event-storming/) \
+[ddd](https://miro.com/miroverse/ddd-design-bounded-contexts-template/) \
+[pain to importance](https://miro.com/miroverse/pain-to-importance-matrix/) \
+[svc blueprint](https://miro.com/miroverse/service-blueprinting-workshop/) \
+[c4](https://miro.com/miroverse/c4-architecture/) \
+[product team](https://miro.com/miroverse/product-team-canvas/) \
+[quality](https://miro.com/miroverse/quality-map/) \
+[heart framework](https://miro.com/miroverse/the-heart-framework/) \
+[user journey](https://miro.com/miroverse/discover-user-journeys-event-storms-template/) \
+[ddd discovery](https://miro.com/miroverse/domain-driven-discovery-template/) \
+[use case](https://miro.com/miroverse/miro-use-cases/) \
+[competitor analysis](https://miro.com/miroverse/identifying-competitors-stepbystep-guide-template/) \
+[mlops](https://miro.com/miroverse/mlops-stack-canvas/) \
+[threat modeling](https://miro.com/miroverse/threat-modeling-with-eop/) \
+[product development phases](https://miro.com/miroverse/product-development-phases/) \
+[dev plan](https://miro.com/miroverse/individual-development-plan/) \
+[customer journey](https://miro.com/miroverse/customer-journey-map-4/) \
+[planning workshop](https://miro.com/miroverse/planning-workshop-toolkit/) \
+[product team canvas](https://miro.com/miroverse/product-team-canvas/)
+
