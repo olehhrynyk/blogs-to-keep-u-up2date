@@ -157,5 +157,10 @@ I don't like books, because depending from your context on the topic at least on
 [dev plan](https://miro.com/miroverse/individual-development-plan/) \
 [customer journey](https://miro.com/miroverse/customer-journey-map-4/) \
 [planning workshop](https://miro.com/miroverse/planning-workshop-toolkit/) \
-[product team canvas](https://miro.com/miroverse/product-team-canvas/)
+[product team canvas](https://miro.com/miroverse/product-team-canvas/) \
+[data strategy / revolution](https://miro.com/miroverse/data-revolution-workshop-ebz0hpkbomfkbsbg/) \
+[ai landscape](https://miro.com/miroverse/gen-ai-data-landscape-template/) \
+[data story](https://miro.com/miroverse/data-storytelling-canvas-kr8tkliopjpsmtn3) \
+[data journey](https://miro.com/miroverse/data-journey-responsibility-mapping-template/) \
+[data question](https://miro.com/miroverse/chart-doctors-data-question-map/)
 
